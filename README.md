@@ -6,5 +6,5 @@
 
 My name is Leho and I am a high school student in Sydney, Australia.
 
-I code mostly in Python and Java.
+I code in Python, Java and Bash.
 
